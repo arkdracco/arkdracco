@@ -1,0 +1,4 @@
+- 👋 Bem vindos ao meu GitHub! Atualmente estudo Análise e Desenvolvimento de Sistemas, na UniCesumar, Participo de vários Bootcamps pela DIO
+- 👀 Buscando um estágio em Desenvolvimento Web
+- 🌱 Passei por HTML, CSS, e estou estudando Backend JAVA
+- E-mail: loliveiracoimbra@gmail.com e WhatApp: 51986100416
